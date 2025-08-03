@@ -1,7 +1,7 @@
-# 📘 Machine Learning Assignment 3
+# 📘 Machine Learning Assignment 4
 ## Naive Bayes, Decision Trees, and Ensemble Learning
 
-This repository contains solutions for **Assignment 3** of the Machine Learning Online course, covering theory and practical implementation of **Naive Bayes**, **Decision Trees**, and **Ensemble Learning** techniques such as **Random Forest**, **AdaBoost**, and **Gradient Boosting**.
+This repository contains solutions for **Assignment 4** of the Machine Learning Online course, covering theory and practical implementation of **Naive Bayes**, **Decision Trees**, and **Ensemble Learning** techniques such as **Random Forest**, **AdaBoost**, and **Gradient Boosting**.
 
 ---
 
@@ -137,5 +137,6 @@ Apply **ensemble techniques** to improve classification performance:
 - [Wine Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
 
 ---
+
 
 
